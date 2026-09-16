@@ -1,0 +1,156 @@
+﻿
+> vitacore@0.1.0 build
+> next build
+
+node.exe :  ΓÜá 
+Warning: Next.js 
+inferred your 
+workspace root, but 
+it may not be correct.
+At line:1 char:1
++ & "C:\Program Files\
+nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~~~
+    + CategoryInfo    
+          : 
+NotSpecified: (     
+ΓÜá Warning: N...not  
+   be 
+correct.:String) [    
+], RemoteException
+    + 
+FullyQualifiedError   
+ Id : 
+NativeCommandErr    or
+ 
+ We detected multiple 
+lockfiles and 
+selected the 
+directory of C:\Users\
+ADMIN\package-lock.jso
+n as the root 
+directory.
+ To silence this 
+warning, set `outputFi
+leTracingRoot` in 
+your Next.js config, 
+or consider removing 
+one of the lockfiles 
+if it's not needed.
+   See https://nextjs.
+org/docs/app/api-refer
+ence/config/next-confi
+g-js/output#caveats 
+for more information.
+ Detected additional 
+lockfiles: 
+   * C:\Users\ADMIN\vi
+tality program Gumroad
+\package-lock.json
+
+   Γû▓ Next.js 15.5.14
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ ΓÜá Attempted to 
+load @next/swc-win32-x
+64-msvc, but an error 
+occurred: \\?\C:\Users
+\ADMIN\vitality 
+program Gumroad\node_m
+odules\@next\swc-win32
+-x64-msvc\next-swc.win
+32-x64-msvc.node is 
+not a valid Win32 
+application.
+\\?\C:\Users\ADMIN\vit
+ality program Gumroad\
+node_modules\@next\swc
+-win32-x64-msvc\next-s
+wc.win32-x64-msvc.node
+ ΓÜá Attempted to 
+load @next/swc-win32-x
+64-msvc, but an error 
+occurred: \\?\C:\Users
+\ADMIN\vitality 
+program Gumroad\node_m
+odules\@next\swc-win32
+-x64-msvc\next-swc.win
+32-x64-msvc.node is 
+not a valid Win32 
+application.
+\\?\C:\Users\ADMIN\vit
+ality program Gumroad\
+node_modules\@next\swc
+-win32-x64-msvc\next-s
+wc.win32-x64-msvc.node
+ ΓÜá Attempted to 
+load @next/swc-win32-x
+64-msvc, but an error 
+occurred: \\?\C:\Users
+\ADMIN\vitality 
+program Gumroad\node_m
+odules\@next\swc-win32
+-x64-msvc\next-swc.win
+32-x64-msvc.node is 
+not a valid Win32 
+application.
+\\?\C:\Users\ADMIN\vit
+ality program Gumroad\
+node_modules\@next\swc
+-win32-x64-msvc\next-s
+wc.win32-x64-msvc.node
+ Γ£ô Compiled successfully in 2.8s
+   Linting and checking validity of types ...
+   Collecting page data ...
+ ΓÜá Attempted to 
+load @next/swc-win32-x
+64-msvc, but an error 
+occurred: \\?\C:\Users
+\ADMIN\vitality 
+program Gumroad\node_m
+odules\@next\swc-win32
+-x64-msvc\next-swc.win
+32-x64-msvc.node is 
+not a valid Win32 
+application.
+\\?\C:\Users\ADMIN\vit
+ality program Gumroad\
+node_modules\@next\swc
+-win32-x64-msvc\next-s
+wc.win32-x64-msvc.node
+   Generating static pages (0/13) ...
+   Generating static pages (3/13) 
+   Generating static pages (6/13) 
+   Generating static pages (9/13) 
+ Γ£ô Generating static pages (13/13)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                 Size  First Load JS
+Γöî Γùï /                                    4.74 kB         167 kB
+Γö£ Γùï /_not-found                            994 B         103 kB
+Γö£ Γùï /admin                               4.95 kB         164 kB
+Γö£ ╞Æ /api/program-data                      127 B         102 kB
+Γö£ ╞Æ /api/signup                            127 B         102 kB
+Γö£ ╞Æ /dashboard                             172 B         106 kB
+Γö£ Γùï /disclaimer                            172 B         106 kB
+Γö£ Γùï /privacy                               172 B         106 kB
+Γö£ Γùï /program                             3.47 kB         162 kB
+Γö£ Γùï /support                               172 B         106 kB
+Γöö Γùï /terms                                 172 B         106 kB
++ First Load JS shared by all             102 kB
+  Γö£ chunks/255-38b49df12a94ee57.js         46 kB
+  Γö£ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+  Γöö other shared chunks (total)             2 kB
+
+
+Γùï  (Static)   prerendered as static content
+╞Æ  (Dynamic)  server-rendered on demand
+

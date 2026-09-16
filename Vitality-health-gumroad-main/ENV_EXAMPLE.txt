@@ -1,0 +1,14 @@
+DATABASE_URL="file:./prisma/dev.db"
+
+# Supabase
+SUPABASE_URL="https://YOUR_PROJECT_REF.supabase.co"
+SUPABASE_ANON_KEY="YOUR_ANON_KEY"
+
+# Supabase (browser/client)
+NEXT_PUBLIC_SUPABASE_URL="https://YOUR_PROJECT_REF.supabase.co"
+NEXT_PUBLIC_SUPABASE_ANON_KEY="YOUR_ANON_KEY"
+
+# Optional (server-only). Never expose this in the browser.
+# SUPABASE_SERVICE_ROLE_KEY="YOUR_SERVICE_ROLE_KEY"
+
+
